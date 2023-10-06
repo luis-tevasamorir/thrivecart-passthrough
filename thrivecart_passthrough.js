@@ -1,3 +1,4 @@
+<script type="text/javascript">
    debugger;
    var t = localStorage.getItem("ThriveCart");
    if (t) {
@@ -27,3 +28,4 @@
    } catch (e) { }
       }
    }
+</script>
